@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comSqlJDBC" />
+        <module name="MapReduce01" />
+        <module name="MapReduce02" />
+        <module name="shujujiegou" />
+        <module name="TestThread" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comSqlJDBC" target="1.8" />
+      <module name="MapReduce" target="1.8" />
+      <module name="MapReduce01" target="1.7" />
+      <module name="MapReduce02" target="1.7" />
+      <module name="shujujiegou" target="1.8" />
+      <module name="TestThread" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
