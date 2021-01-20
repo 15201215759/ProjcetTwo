@@ -5,5 +5,6 @@ public class classone {
         System.out.println("hello word!");
         System.out.println("ce");
         System.out.println("测试git提交");
+        System.out.println("测试git提交2");
     }
 }
