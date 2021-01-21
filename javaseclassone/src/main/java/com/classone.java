@@ -10,6 +10,7 @@ public class classone {
         methodTwo();
         String s = methodTwo();
         System.out.println(s);
+        System.out.println("新建分支");
     }
     public static  void methodOne(){
         System.out.println("没有返回值，不传参的方法");
